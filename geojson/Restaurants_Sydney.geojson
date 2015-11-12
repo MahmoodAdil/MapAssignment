@@ -1,0 +1,3788 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-11-11T14:19:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/18323773",
+      "properties": {
+        "@id": "node/18323773",
+        "amenity": "restaurant",
+        "name": "Centennial Parklands Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2335026,
+          -33.8945472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/18460336",
+      "properties": {
+        "@id": "node/18460336",
+        "amenity": "restaurant",
+        "name": "3801 Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1965314,
+          -33.8937389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959028",
+      "properties": {
+        "@id": "node/20959028",
+        "amenity": "restaurant",
+        "fixme": "amenity added from name, needs confimation.",
+        "name": "restaraunt row"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2092115,
+          -33.8568927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959033",
+      "properties": {
+        "@id": "node/20959033",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Quay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2101733,
+          -33.857526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959034",
+      "properties": {
+        "@id": "node/20959034",
+        "amenity": "restaurant",
+        "name": "La Mela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2096455,
+          -33.858167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959035",
+      "properties": {
+        "@id": "node/20959035",
+        "amenity": "restaurant",
+        "name": "Waterfront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2094918,
+          -33.8572336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959036",
+      "properties": {
+        "@id": "node/20959036",
+        "amenity": "restaurant",
+        "name": "Wolfie's Restaurant Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093729,
+          -33.8570596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959037",
+      "properties": {
+        "@id": "node/20959037",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Imperial Peking Harbourside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2092587,
+          -33.8568952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959038",
+      "properties": {
+        "@id": "node/20959038",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Italian Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2091614,
+          -33.8567313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959043",
+      "properties": {
+        "@id": "node/20959043",
+        "amenity": "restaurant",
+        "name": "Cruise Chandon Oyster Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.209991,
+          -33.8588135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959187",
+      "properties": {
+        "@id": "node/20959187",
+        "amenity": "restaurant",
+        "name": "Caminetto Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2083712,
+          -33.8581781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20959237",
+      "properties": {
+        "@id": "node/20959237",
+        "amenity": "restaurant",
+        "name": "Giovanni's Restaurant & Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2072825,
+          -33.8623266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20979627",
+      "properties": {
+        "@id": "node/20979627",
+        "amenity": "restaurant",
+        "created_by": "JOSM",
+        "cuisine": "chinese",
+        "name": "Golden Century Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2249669,
+          -33.8941701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20979675",
+      "properties": {
+        "@id": "node/20979675",
+        "amenity": "restaurant",
+        "name": "Arena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2262403,
+          -33.8943121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20979677",
+      "properties": {
+        "@id": "node/20979677",
+        "amenity": "restaurant",
+        "created_by": "JOSM",
+        "name": "Ablaze Grill & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2261203,
+          -33.8942077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/20979678",
+      "properties": {
+        "@id": "node/20979678",
+        "amenity": "restaurant",
+        "created_by": "JOSM",
+        "cuisine": "italian",
+        "name": "Cine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.226183,
+          -33.8942578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26526161",
+      "properties": {
+        "@id": "node/26526161",
+        "amenity": "restaurant",
+        "name": "Botanic Gardens Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.217023,
+          -33.864825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/173354137",
+      "properties": {
+        "@id": "node/173354137",
+        "al_fresco": "yes",
+        "amenity": "restaurant",
+        "name": "Doyles",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1920482,
+          -33.8729424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263133047",
+      "properties": {
+        "@id": "node/263133047",
+        "amenity": "restaurant",
+        "name": "Asakusa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1839647,
+          -33.8930677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263133050",
+      "properties": {
+        "@id": "node/263133050",
+        "amenity": "restaurant",
+        "created_by": "JOSM",
+        "name": "Thai Pothong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1797622,
+          -33.896789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/290633449",
+      "properties": {
+        "@id": "node/290633449",
+        "amenity": "restaurant",
+        "name": "Wasavie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2282256,
+          -33.8825652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/318861272",
+      "properties": {
+        "@id": "node/318861272",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "Madang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.207752,
+          -33.8762771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321191104",
+      "properties": {
+        "@id": "node/321191104",
+        "amenity": "restaurant",
+        "name": "Ripples Cafe Milsons Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2114015,
+          -33.8496851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/325246951",
+      "properties": {
+        "@id": "node/325246951",
+        "addr:housenumber": "768",
+        "addr:street": "George Street",
+        "amenity": "restaurant",
+        "comment": "authentic thai; about $10 per main; casual atmosphere",
+        "cuisine": "thai",
+        "name": "Crocodile Senior Thai",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "phone": "+61 (2) 9211 6630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2051653,
+          -33.8804393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/348994614",
+      "properties": {
+        "@id": "node/348994614",
+        "addr:housenumber": "60-70",
+        "amenity": "restaurant",
+        "created_by": "Potlatch 0.10f",
+        "cuisine": "brazilian",
+        "name": "Churrasco",
+        "source": "survey",
+        "url": "http://churrasco.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.215338,
+          -33.8740627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/348994783",
+      "properties": {
+        "@id": "node/348994783",
+        "amenity": "restaurant",
+        "name": "Wagamama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2018027,
+          -33.8675288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/356993906",
+      "properties": {
+        "@id": "node/356993906",
+        "addr:housenumber": "75",
+        "amenity": "restaurant",
+        "cuisine": "argentinian",
+        "name": "Gaucho Grill",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2152607,
+          -33.875837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/392527430",
+      "properties": {
+        "@id": "node/392527430",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Lincontro",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2074861,
+          -33.8349644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497408905",
+      "properties": {
+        "@id": "node/497408905",
+        "amenity": "restaurant",
+        "name": "Baskin Robins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.212672,
+          -33.861148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497409751",
+      "properties": {
+        "@id": "node/497409751",
+        "amenity": "restaurant",
+        "name": "Cookieman Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2126543,
+          -33.8612635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/497587538",
+      "properties": {
+        "@id": "node/497587538",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "Jingogae Korean",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2076371,
+          -33.8328713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/501793212",
+      "properties": {
+        "@id": "node/501793212",
+        "amenity": "restaurant",
+        "name": "Kai on King sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1838217,
+          -33.8931642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/515985924",
+      "properties": {
+        "@id": "node/515985924",
+        "addr:city": "Camperdown",
+        "addr:housenumber": "137",
+        "addr:postcode": "2050",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Frank's Pizza Bar",
+        "opening_hours": "Tu-Su 11:00-23:00",
+        "phone": "+61 2 9519 3404",
+        "smoking": "no",
+        "website": "https://www.facebook.com/Franks.Pizza.Bar",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1745438,
+          -33.8873594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536763961",
+      "properties": {
+        "@id": "node/536763961",
+        "amenity": "restaurant",
+        "name": "Aqua Dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2109391,
+          -33.848937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536763962",
+      "properties": {
+        "@id": "node/536763962",
+        "amenity": "restaurant",
+        "name": "Sails"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2061634,
+          -33.8484748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/816325207",
+      "properties": {
+        "@id": "node/816325207",
+        "amenity": "restaurant",
+        "name": "Piatsa Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1839452,
+          -33.8997591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/913333124",
+      "properties": {
+        "@id": "node/913333124",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Tanpopo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2193045,
+          -33.8305579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/936413516",
+      "properties": {
+        "@id": "node/936413516",
+        "amenity": "restaurant",
+        "name": "The Commons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2151784,
+          -33.8782967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/936414542",
+      "properties": {
+        "@id": "node/936414542",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pizza Lucio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2168134,
+          -33.8780282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/936414725",
+      "properties": {
+        "@id": "node/936414725",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "Phamish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.216794,
+          -33.8781494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/936416637",
+      "properties": {
+        "@id": "node/936416637",
+        "amenity": "restaurant",
+        "name": "Verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2149209,
+          -33.8758071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/936418288",
+      "properties": {
+        "@id": "node/936418288",
+        "amenity": "restaurant",
+        "name": "Simizu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2130273,
+          -33.8769027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1044374699",
+      "properties": {
+        "@id": "node/1044374699",
+        "addr:housenumber": "90",
+        "addr:postcode": "2010",
+        "addr:street": "Wentworth Avenue",
+        "amenity": "restaurant",
+        "name": "Spice I Am",
+        "website": "http://www.spiceiam.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2095116,
+          -33.8796172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1084662531",
+      "properties": {
+        "@id": "node/1084662531",
+        "addr:street": "Cleveland Street",
+        "amenity": "restaurant",
+        "name": "Wafu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2133098,
+          -33.8915431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1117739830",
+      "properties": {
+        "@id": "node/1117739830",
+        "addr:housenumber": "165",
+        "addr:postcode": "2000",
+        "addr:street": "King Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Deli Choice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2101929,
+          -33.8691237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1160951409",
+      "properties": {
+        "@id": "node/1160951409",
+        "amenity": "restaurant",
+        "name": "Cafe Sydney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2108234,
+          -33.862228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1160951430",
+      "properties": {
+        "@id": "node/1160951430",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Santorini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2179417,
+          -33.8812712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1160951438",
+      "properties": {
+        "@id": "node/1160951438",
+        "amenity": "restaurant",
+        "name": "Nick's 103",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2020521,
+          -33.8722054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1261958680",
+      "properties": {
+        "@id": "node/1261958680",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Sakae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2083223,
+          -33.876834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262710152",
+      "properties": {
+        "@id": "node/1262710152",
+        "amenity": "restaurant",
+        "name": "Pontoon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2023977,
+          -33.871247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262710217",
+      "properties": {
+        "@id": "node/1262710217",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Baia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.202321,
+          -33.8716077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262720262",
+      "properties": {
+        "@id": "node/1262720262",
+        "amenity": "restaurant",
+        "name": "Lidt Chocolate Cafe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2022642,
+          -33.872194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262764790",
+      "properties": {
+        "@id": "node/1262764790",
+        "amenity": "restaurant",
+        "name": "Adriana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2020821,
+          -33.8719647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262764871",
+      "properties": {
+        "@id": "node/1262764871",
+        "amenity": "restaurant",
+        "name": "I'm Angus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2022367,
+          -33.8717769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1262974696",
+      "properties": {
+        "@id": "node/1262974696",
+        "amenity": "restaurant",
+        "name": "Homebar",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2019526,
+          -33.8727133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1268489386",
+      "properties": {
+        "@id": "node/1268489386",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Stir Crazy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2190089,
+          -33.8301413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1268699984",
+      "properties": {
+        "@id": "node/1268699984",
+        "amenity": "restaurant",
+        "name": "Cargo bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2017062,
+          -33.8686909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1343310912",
+      "properties": {
+        "@id": "node/1343310912",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Steyne on the Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.199426,
+          -33.8704835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1346628717",
+      "properties": {
+        "@id": "node/1346628717",
+        "amenity": "restaurant",
+        "name": "Taste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2038071,
+          -33.8665061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1363258539",
+      "properties": {
+        "@id": "node/1363258539",
+        "addr:housenumber": "315",
+        "addr:postcode": "2016",
+        "addr:street": "Cleveland Street",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian",
+        "diet:vegetarian": "only",
+        "name": "Nourishing Quarter",
+        "source": "Fan of restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2095904,
+          -33.8907265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1460804301",
+      "properties": {
+        "@id": "node/1460804301",
+        "addr:housename": "The Elizabeth",
+        "addr:housenumber": "1",
+        "addr:postcode": "2009",
+        "addr:street": "Harris Street",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Sugaroom",
+        "website": "http://www.sugaroom.com.au/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1909783,
+          -33.8658528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1605689100",
+      "properties": {
+        "@id": "node/1605689100",
+        "addr:city": "Sydney",
+        "addr:country": "AU",
+        "addr:housenumber": "2-4",
+        "addr:street": "College Street",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "Bodhi",
+        "website": "http://www.bodhi.id.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2133984,
+          -33.8719054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613883956",
+      "properties": {
+        "@id": "node/1613883956",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Blue Eye Dragon",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1937064,
+          -33.8675365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613895192",
+      "properties": {
+        "@id": "node/1613895192",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Wokstation",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1938405,
+          -33.8698593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613895196",
+      "properties": {
+        "@id": "node/1613895196",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Graze",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1944593,
+          -33.8703911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613909625",
+      "properties": {
+        "@id": "node/1613909625",
+        "amenity": "restaurant",
+        "name": "Cafe XXII",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1948084,
+          -33.8694942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613909692",
+      "properties": {
+        "@id": "node/1613909692",
+        "amenity": "restaurant",
+        "name": "Bartino",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1949613,
+          -33.8696701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613909956",
+      "properties": {
+        "@id": "node/1613909956",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1936309,
+          -33.8697035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613916937",
+      "properties": {
+        "@id": "node/1613916937",
+        "amenity": "restaurant",
+        "name": "Tapas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1938884,
+          -33.8644008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613917322",
+      "properties": {
+        "@id": "node/1613917322",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Flying Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1953314,
+          -33.8626234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613919579",
+      "properties": {
+        "@id": "node/1613919579",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Fisherman's Wharf Seafood Restaurant",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1924132,
+          -33.8736119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1619638888",
+      "properties": {
+        "@id": "node/1619638888",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian",
+        "diet:vegetarian": "only",
+        "name": "Green Gormet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.184165,
+          -33.8930201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1635002662",
+      "properties": {
+        "@id": "node/1635002662",
+        "addr:suburb": "Surry Hills",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Mario",
+        "opening_hours": "Mo-Su 18:00+; PH off",
+        "website": "http://www.pizzamario.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2161281,
+          -33.8822706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1650823424",
+      "properties": {
+        "@id": "node/1650823424",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Thaipower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2228722,
+          -33.8722521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1653959469",
+      "properties": {
+        "@id": "node/1653959469",
+        "addr:housenumber": "135",
+        "addr:postcode": "2000",
+        "addr:street": "Harrington Street",
+        "amenity": "restaurant",
+        "name": "Belgian Beer Cafe",
+        "website": "http://heritagebarandrestaurant.com.au",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2065454,
+          -33.8627632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1681099905",
+      "properties": {
+        "@id": "node/1681099905",
+        "amenity": "restaurant",
+        "name": "Tom yum tum gang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1867668,
+          -33.8792741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1719859876",
+      "properties": {
+        "@id": "node/1719859876",
+        "amenity": "restaurant",
+        "name": "Athenian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2065506,
+          -33.8678143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1731303096",
+      "properties": {
+        "@id": "node/1731303096",
+        "amenity": "restaurant",
+        "created_by": "iLOE 1.9",
+        "cuisine": "fast_food",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.192328,
+          -33.897731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1732566727",
+      "properties": {
+        "@id": "node/1732566727",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Stir Crazy Thai",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1850367,
+          -33.8996739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739965850",
+      "properties": {
+        "@id": "node/1739965850",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Le Grande Bouffe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1676133,
+          -33.8654643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1779141132",
+      "properties": {
+        "@id": "node/1779141132",
+        "amenity": "restaurant",
+        "name": "Pyrama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1926178,
+          -33.8672547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1812117916",
+      "properties": {
+        "@id": "node/1812117916",
+        "amenity": "restaurant",
+        "cuisine": "thai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1962358,
+          -33.888312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1812389142",
+      "properties": {
+        "@id": "node/1812389142",
+        "addr:housenumber": "201",
+        "addr:postcode": "2000",
+        "addr:street": "Sussex Street",
+        "amenity": "restaurant",
+        "name": "Chinta Ria",
+        "website": "https://www.facebook.com/pages/Chinta-Ria-Temple-Of-Love/133265790054252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2024411,
+          -33.8713565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1815543225",
+      "properties": {
+        "@id": "node/1815543225",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Bay Tandoori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.196731,
+          -33.837603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1815543234",
+      "properties": {
+        "@id": "node/1815543234",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Tamarind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1976548,
+          -33.8375268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1833116180",
+      "properties": {
+        "@id": "node/1833116180",
+        "amenity": "restaurant",
+        "name": "Essen",
+        "source": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1978705,
+          -33.8841151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1833899653",
+      "properties": {
+        "@id": "node/1833899653",
+        "addr:city": "Camperdown",
+        "addr:country": "AU",
+        "addr:housenumber": "30",
+        "addr:postcode": "2050",
+        "addr:street": "Pyrmont Bridge Road",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Sushi Masa",
+        "opening_hours": "Tu-Fr 18:00-22:00; Sa,Su 12:00-15:00,18:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1770105,
+          -33.8848347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1839805386",
+      "properties": {
+        "@id": "node/1839805386",
+        "addr:city": "Glebe",
+        "addr:postcode": "2037",
+        "addr:street": "Ferry Road",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Boathouse on Blackwattle Bay",
+        "source": "survey",
+        "website": "http://www.boathouse.net.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.187981,
+          -33.873664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1859757754",
+      "properties": {
+        "@id": "node/1859757754",
+        "amenity": "restaurant",
+        "is_in:city": "Sydney",
+        "name": "Millenium Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1964222,
+          -33.8884167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1916709639",
+      "properties": {
+        "@id": "node/1916709639",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Sam Thai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2218403,
+          -33.8311741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1916711838",
+      "properties": {
+        "@id": "node/1916711838",
+        "amenity": "restaurant",
+        "name": "Sushi Train",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2272798,
+          -33.8297392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2026143596",
+      "properties": {
+        "@id": "node/2026143596",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Holy Cow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.213101,
+          -33.891589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2097580046",
+      "properties": {
+        "@id": "node/2097580046",
+        "addr:city": "Sydney",
+        "addr:housenumber": "107",
+        "addr:postcode": "NSW 2000",
+        "addr:street": "Pitt Street",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Jamie's Italian",
+        "website": "http://www.jamieoliver.com/italian/australia/sydney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2084841,
+          -33.8660798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2262381841",
+      "properties": {
+        "@id": "node/2262381841",
+        "addr:housenumber": "4/6",
+        "addr:postcode": "2011",
+        "addr:street": "Cowper Wharf Road",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "China Doll",
+        "source": "02 9380 6744",
+        "website": "http://www.chinadoll.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2202288,
+          -33.868648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2262384570",
+      "properties": {
+        "@id": "node/2262384570",
+        "addr:housenumber": "412-414 George St",
+        "addr:postcode": "2000",
+        "addr:street": "George Street",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pendolino",
+        "source": "02 9231 6117",
+        "website": "http://www.pendolino.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2072559,
+          -33.8694695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2296983780",
+      "properties": {
+        "@id": "node/2296983780",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Apollo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2253531,
+          -33.8709498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2304507705",
+      "properties": {
+        "@id": "node/2304507705",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Porteno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2102768,
+          -33.8907025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365225493",
+      "properties": {
+        "@id": "node/2365225493",
+        "amenity": "restaurant",
+        "cuisine": "lebanese",
+        "name": "Arabella",
+        "phone": "+61 2 95501119",
+        "website": "http://www.arabella.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.178866,
+          -33.902311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365228807",
+      "properties": {
+        "@id": "node/2365228807",
+        "addr:city": "Newtown",
+        "addr:housenumber": "379",
+        "addr:postcode": "2042",
+        "addr:street": "King Street",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Gigi Pizzeria",
+        "phone": "+61 2 95572224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.177616,
+          -33.899222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365229319",
+      "properties": {
+        "@id": "node/2365229319",
+        "addr:city": "Newtown",
+        "addr:housenumber": "377",
+        "addr:postcode": "2042",
+        "addr:street": "King Street",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "name": "Argie BarGee",
+        "phone": "+61 2 95578884",
+        "website": "http://www.argiebargee.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.17764,
+          -33.899156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365233252",
+      "properties": {
+        "@id": "node/2365233252",
+        "amenity": "restaurant",
+        "cuisine": "pie",
+        "name": "The Pie Tin",
+        "payment:bitcoin": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.18233,
+          -33.89529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365233655",
+      "properties": {
+        "@id": "node/2365233655",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Burgerfuel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.182996,
+          -33.8941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2365252957",
+      "properties": {
+        "@id": "node/2365252957",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Beach Burrito Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.178412,
+          -33.897388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2521922484",
+      "properties": {
+        "@id": "node/2521922484",
+        "addr:city": "Sydney",
+        "addr:housenumber": "112",
+        "addr:postcode": "2010",
+        "addr:street": "Darlinghurst Road",
+        "addr:suburb": "Darlinghurst",
+        "amenity": "restaurant",
+        "name": "Govindas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2215154,
+          -33.8763755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522158184",
+      "properties": {
+        "@id": "node/2522158184",
+        "amenity": "restaurant",
+        "name": "Jazz City Milk Bar",
+        "website": "http://www.jazzcitymilkbar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2168021,
+          -33.8780826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2522579363",
+      "properties": {
+        "@id": "node/2522579363",
+        "addr:city": "Sydney",
+        "addr:housenumber": "379",
+        "addr:postcode": "2010",
+        "addr:street": "Liverpool Street",
+        "addr:suburb": "Darlinghurst",
+        "amenity": "restaurant",
+        "cuisine": "syrian",
+        "name": "Almond",
+        "website": "http://www.almondbar.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2204773,
+          -33.8782576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2523107319",
+      "properties": {
+        "@id": "node/2523107319",
+        "addr:city": "Sydney",
+        "addr:housenumber": "98",
+        "addr:postcode": "2010",
+        "addr:street": "Oxford Street",
+        "addr:suburb": "Darlinghurst",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "gay": "welcome",
+        "name": "Raquel's",
+        "website": "http://www.raquelsspanishkitchen.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2156821,
+          -33.8793894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524742470",
+      "properties": {
+        "@id": "node/2524742470",
+        "addr:city": "Sydney",
+        "addr:housename": "King Street Wharf Building",
+        "addr:housenumber": "42-48",
+        "addr:postcode": "2000",
+        "addr:street": "The Promanade",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Casa di Nico",
+        "phone": "+61 2 9279 4115",
+        "website": "http://lovecasa.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2016924,
+          -33.8683143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524810478",
+      "properties": {
+        "@id": "node/2524810478",
+        "amenity": "restaurant",
+        "cuisine": "brazilian",
+        "name": "Churras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2178639,
+          -33.8812411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524810479",
+      "properties": {
+        "@id": "node/2524810479",
+        "amenity": "restaurant",
+        "name": "Balkan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2177875,
+          -33.8812133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2524990912",
+      "properties": {
+        "@id": "node/2524990912",
+        "amenity": "restaurant",
+        "name": "The Canopy",
+        "website": "http://www.thecanopy.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2098559,
+          -33.8770209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2542570958",
+      "properties": {
+        "@id": "node/2542570958",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Marys",
+        "phone": "02 4995 9550",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1797467,
+          -33.8960854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2574858380",
+      "properties": {
+        "@id": "node/2574858380",
+        "addr:city": "Sydney",
+        "addr:housenumber": "1A",
+        "addr:postcode": "2011",
+        "addr:street": "Darlinghurst Road",
+        "amenity": "restaurant",
+        "cuisine": "ice_cream",
+        "name": "Andersen's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2246248,
+          -33.8730625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2574909508",
+      "properties": {
+        "@id": "node/2574909508",
+        "addr:city": "Sydney",
+        "addr:housenumber": "41b",
+        "addr:postcode": "2011",
+        "addr:street": "Elizabeth Bay Road",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Kujin",
+        "phone": "+61 2 9331 6077",
+        "website": "http://www.kujin.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2276104,
+          -33.8721275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2622991674",
+      "properties": {
+        "@id": "node/2622991674",
+        "addr:city": "Darlinghurst",
+        "addr:housenumber": "82",
+        "addr:postcode": "210",
+        "addr:street": "Stanley Street",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Big Boy Thai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2157391,
+          -33.875715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2625869918",
+      "properties": {
+        "@id": "node/2625869918",
+        "addr:city": "Crows Nest",
+        "addr:country": "AU",
+        "addr:postcode": "2065",
+        "addr:state": "NSW",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "drive_in": "no",
+        "microbrewery": "no",
+        "name": "New Orleans Café",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20075,
+          -33.827472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2625875458",
+      "properties": {
+        "@id": "node/2625875458",
+        "addr:city": "Crows Nest",
+        "addr:country": "AU",
+        "addr:state": "NSW",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "drive_in": "no",
+        "name": "Waqu",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20042,
+          -33.82764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2744252850",
+      "properties": {
+        "@id": "node/2744252850",
+        "addr:city": "Potts Point",
+        "addr:housenumber": "22",
+        "addr:postcode": "2011",
+        "addr:street": "Challis Avenue",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "The Fish Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2254017,
+          -33.8688579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2744252853",
+      "properties": {
+        "@id": "node/2744252853",
+        "addr:city": "Potts Point",
+        "addr:housenumber": "12-16",
+        "addr:postcode": "2011",
+        "addr:street": "Challis Avenue",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Fratelli Paradiso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2251932,
+          -33.8688298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2744297159",
+      "properties": {
+        "@id": "node/2744297159",
+        "addr:city": "Sydney",
+        "addr:housenumber": "10",
+        "addr:postcode": "2000",
+        "addr:street": "Bligh Street",
+        "amenity": "restaurant",
+        "cuisine": "asian_fusion",
+        "name": "Spice Temple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2102798,
+          -33.866113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2744297165",
+      "properties": {
+        "@id": "node/2744297165",
+        "addr:city": "Sydney",
+        "addr:housenumber": "66",
+        "addr:postcode": "2000",
+        "addr:street": "Hunter Street",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Rockpool Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2103603,
+          -33.8660112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2744297170",
+      "properties": {
+        "@id": "node/2744297170",
+        "addr:city": "Rose Bay",
+        "addr:housenumber": "594",
+        "addr:postcode": "2029",
+        "addr:street": "New South Head Road",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "The Sailors Club",
+        "phone": "+61 (2) 9327 6561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2548624,
+          -33.8707702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2748944882",
+      "properties": {
+        "@id": "node/2748944882",
+        "addr:city": "Darlinghurst",
+        "addr:housenumber": "97",
+        "addr:postcode": "2010",
+        "addr:street": "Crown Street",
+        "amenity": "restaurant",
+        "name": "The Owl House",
+        "opening_hours": "Tu-Fr 17:00-23:59; Sa 18:00-23:59; Su,Mo off",
+        "payment:bitcoin": "yes",
+        "phone": "+61 2 9357 5060",
+        "website": "http://www.theowlhouse.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2161103,
+          -33.8747291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2751747454",
+      "properties": {
+        "@id": "node/2751747454",
+        "addr:city": "Potts Point",
+        "addr:housenumber": "Shop 2, 238",
+        "addr:postcode": "2011",
+        "addr:street": "William Street",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "VietBowl",
+        "phone": "+61 2 8065 7515",
+        "smoking": "outside",
+        "source": "http://www.vietbowl.com.au/",
+        "website": "http://www.vietbowl.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2217506,
+          -33.8750649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2751836027",
+      "properties": {
+        "@id": "node/2751836027",
+        "addr:city": "Potts Point",
+        "addr:housenumber": "Shop 21, 230",
+        "addr:postcode": "2011",
+        "addr:street": "William Street",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "BaddhaBing Thai Potts Point",
+        "opening_hours": "Mo-Fr 12:00-15:00; Mo-Su 17:00-22:00",
+        "phone": "+61 2 9361 4050",
+        "smoking": "no",
+        "source": "http://www.buddhabingthai.com.au/#!find-us/cc72",
+        "website": "http://www.buddhabingthai.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2214541,
+          -33.8750407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2759887174",
+      "properties": {
+        "@id": "node/2759887174",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Crinitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2201437,
+          -33.8687974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2759887179",
+      "properties": {
+        "@id": "node/2759887179",
+        "amenity": "restaurant",
+        "name": "Manta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2203053,
+          -33.8685032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2759887180",
+      "properties": {
+        "@id": "node/2759887180",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Otto Ristorante"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2203779,
+          -33.8683652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2759913197",
+      "properties": {
+        "@id": "node/2759913197",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "AKIs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2200686,
+          -33.8689304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2759995335",
+      "properties": {
+        "@id": "node/2759995335",
+        "addr:city": "Potts Point",
+        "addr:housenumber": "77",
+        "addr:postcode": "2011",
+        "addr:street": "MacLeay Street",
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop",
+        "name": "ZINC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2252697,
+          -33.8699154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2759995337",
+      "properties": {
+        "@id": "node/2759995337",
+        "amenity": "restaurant",
+        "name": "Macleay Street Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2253515,
+          -33.8695405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2759995338",
+      "properties": {
+        "@id": "node/2759995338",
+        "addr:city": "Potts Point",
+        "addr:housenumber": "73",
+        "addr:postcode": "2011",
+        "addr:street": "MacLeay Street",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Cho Cho San",
+        "opening_hours": "Mo-Th 17:30-23:00; Fr-Su 12:00-16:00,17:30-23:00",
+        "phone": "+61 2 9331 6601",
+        "smoking": "no",
+        "source:date": "2014-07-13",
+        "website": "http://chochosan.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2253675,
+          -33.8694619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2789946879",
+      "properties": {
+        "@id": "node/2789946879",
+        "addr:city": "Camperdown",
+        "addr:housenumber": "176",
+        "addr:postcode": "2050",
+        "addr:street": "Salisbury Road",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Salisbury Spice Thai",
+        "opening_hours": "17:30-21:30",
+        "phone": "+61 2 9516 0708",
+        "smoking": "no",
+        "website": "http://www.salisburyspicethai.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1778286,
+          -33.8912391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2839232501",
+      "properties": {
+        "@id": "node/2839232501",
+        "addr:city": "Newtown",
+        "addr:housenumber": "391",
+        "addr:postcode": "2042",
+        "addr:street": "King Street",
+        "amenity": "restaurant",
+        "cuisine": "vegan",
+        "diet:vegan": "only",
+        "name": "Lentil as Anything",
+        "opening_hours": "Mo-Su 18:00-21:00",
+        "smoking": "no",
+        "website": "http://lentilasanything.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1777782,
+          -33.899527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2839253033",
+      "properties": {
+        "@id": "node/2839253033",
+        "amenity": "restaurant",
+        "level": "-1",
+        "name": "Cellini's Cafe",
+        "payment:bitcoin": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2081234,
+          -33.8705599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2874264581",
+      "properties": {
+        "@id": "node/2874264581",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Yuzu",
+        "source": "survey",
+        "source:location": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1927318,
+          -33.8669009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2879164401",
+      "properties": {
+        "@id": "node/2879164401",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Osteria Riva",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2506377,
+          -33.8950905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2911988525",
+      "properties": {
+        "@id": "node/2911988525",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "Fast Pho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.196576,
+          -33.8839613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2911988526",
+      "properties": {
+        "@id": "node/2911988526",
+        "amenity": "restaurant",
+        "cuisine": "malaysian",
+        "name": "Malacca Straits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1969354,
+          -33.8839813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2947427487",
+      "properties": {
+        "@id": "node/2947427487",
+        "amenity": "restaurant",
+        "brand": "Pancakes on the Rocks",
+        "name": "Pancakes on the Rocks",
+        "source": "survey",
+        "source:location": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2092014,
+          -33.8586611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2947427488",
+      "properties": {
+        "@id": "node/2947427488",
+        "amenity": "restaurant",
+        "brand": "Pancakes on the Rocks",
+        "name": "Pancakes on the Rocks",
+        "source": "survey",
+        "source:location": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1985587,
+          -33.8703497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2955359298",
+      "properties": {
+        "@id": "node/2955359298",
+        "amenity": "restaurant",
+        "capacity": "20",
+        "cuisine": "japanese",
+        "name": "Jap's Table"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1962881,
+          -33.8910121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2972865047",
+      "properties": {
+        "@id": "node/2972865047",
+        "amenity": "restaurant",
+        "name": "The Century",
+        "source": "survey",
+        "source:location": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1952843,
+          -33.8670957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2972878166",
+      "properties": {
+        "@id": "node/2972878166",
+        "addr:housenumber": "127",
+        "amenity": "restaurant",
+        "contact:phone": "+61 2 9283 8284",
+        "contact:website": "http://www.holybasil.com.au",
+        "name": "Holy Basil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2081807,
+          -33.8770126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2972878167",
+      "properties": {
+        "@id": "node/2972878167",
+        "addr:housenumber": "1",
+        "addr:shop": "2",
+        "amenity": "restaurant",
+        "brand": "Menya Noodle Bar",
+        "contact:phone": "+61 2 9267 4649",
+        "contact:website": "http://www.menya.com.au",
+        "name": "Menya-City",
+        "source": "survey",
+        "source:location": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2044743,
+          -33.8714234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2983950809",
+      "properties": {
+        "@id": "node/2983950809",
+        "addr:city": "Newtown",
+        "addr:housenumber": "395",
+        "addr:postcode": "2042",
+        "addr:street": "King Street",
+        "amenity": "restaurant",
+        "cuisine": "vegan",
+        "name": "Vina",
+        "opening_hours": "Mo-Su 19:00-22:00",
+        "phone": "+61 2 9557 0456",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1778064,
+          -33.899625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3039274495",
+      "properties": {
+        "@id": "node/3039274495",
+        "addr:city": "Sydney",
+        "addr:housenumber": "1",
+        "addr:postcode": "NSW 2000",
+        "addr:street": "Martin Place",
+        "amenity": "restaurant",
+        "name": "Prime Steak Restaurant",
+        "opening_hours": "Tu-Fr 12:00-15:00; Mo-Sa 18:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2078305,
+          -33.867708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3108383429",
+      "properties": {
+        "@id": "node/3108383429",
+        "addr:city": "Waterloo",
+        "addr:housenumber": "27",
+        "addr:postcode": "2017",
+        "addr:street": "McEvoy Street",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Supreme Gourmet Pizza Bar",
+        "website": "http://www.supremepizza.com.au/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2068989,
+          -33.9003144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3147054965",
+      "properties": {
+        "@id": "node/3147054965",
+        "amenity": "restaurant",
+        "name": "Gowings Bar & Grill",
+        "source": "survey",
+        "source:location": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2076591,
+          -33.8709611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3219684765",
+      "properties": {
+        "@id": "node/3219684765",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Thai La Ong",
+        "note": "$7 lunch specials!",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1850815,
+          -33.8927817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3248914963",
+      "properties": {
+        "@id": "node/3248914963",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Hamachi-Ya",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1958744,
+          -33.8734138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278462759",
+      "properties": {
+        "@id": "node/3278462759",
+        "addr:city": "Camperdown",
+        "addr:housenumber": "138",
+        "addr:postcode": "2050",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Headquarters Bistro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.177429,
+          -33.8862638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278463861",
+      "properties": {
+        "@id": "node/3278463861",
+        "addr:city": "Camperdown",
+        "addr:housenumber": "154",
+        "addr:postcode": "2050",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Open Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1767192,
+          -33.8865816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278466568",
+      "properties": {
+        "@id": "node/3278466568",
+        "addr:city": "Camperdown",
+        "addr:housenumber": "28/12-14",
+        "addr:postcode": "2050",
+        "addr:street": "Layton Street",
+        "amenity": "restaurant",
+        "name": "Urban Pizza Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1772315,
+          -33.8857622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278495070",
+      "properties": {
+        "@id": "node/3278495070",
+        "addr:city": "Stanmore",
+        "addr:housenumber": "106-110",
+        "addr:postcode": "2048",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut Stanmore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1689017,
+          -33.8879679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278503700",
+      "properties": {
+        "@id": "node/3278503700",
+        "addr:city": "Stanmore",
+        "addr:housenumber": "164/166",
+        "addr:postcode": "2048",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Empire Kebabs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1678315,
+          -33.8880561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278505535",
+      "properties": {
+        "@id": "node/3278505535",
+        "addr:housenumber": "95",
+        "addr:postcode": "2038",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Sahara Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1684311,
+          -33.8877254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278509468",
+      "properties": {
+        "@id": "node/3278509468",
+        "addr:city": "Annandale",
+        "addr:housenumber": "10",
+        "addr:postcode": "2038",
+        "addr:street": "Johnston Street",
+        "amenity": "restaurant",
+        "name": "Annandale Delight"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1677263,
+          -33.8875453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278511671",
+      "properties": {
+        "@id": "node/3278511671",
+        "addr:city": "Annandale",
+        "addr:housenumber": "143",
+        "addr:postcode": "2038",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Sushi Bibida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1664701,
+          -33.8878942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278516925",
+      "properties": {
+        "@id": "node/3278516925",
+        "addr:city": "Annandale",
+        "addr:housenumber": "123",
+        "addr:postcode": "2038",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "BJS BOND CAFE /RESTAURANT",
+        "website": "bjsbond.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1669735,
+          -33.8877363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278531080",
+      "properties": {
+        "@id": "node/3278531080",
+        "addr:city": "Stanmore",
+        "addr:housenumber": "254-256",
+        "addr:postcode": "2048",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Prego Pizza & Pasta Restaurant",
+        "phone": "(02) 9569 5005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1652489,
+          -33.8882528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278534871",
+      "properties": {
+        "@id": "node/3278534871",
+        "addr:city": "Annandale",
+        "addr:housenumber": "241",
+        "addr:postcode": "2038",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Sushi Bar Rashai",
+        "phone": "(02) 9560 3007",
+        "website": "sushirashai.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1629866,
+          -33.8880728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278534915",
+      "properties": {
+        "@id": "node/3278534915",
+        "addr:city": "Annandale",
+        "addr:housenumber": "227",
+        "addr:postcode": "2038",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Tapas Locas",
+        "phone": "(02) 9568 6961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1634954,
+          -33.8881268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278535656",
+      "properties": {
+        "@id": "node/3278535656",
+        "addr:city": "Petersham",
+        "addr:housenumber": "386",
+        "addr:postcode": "2049",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Petersham Inn",
+        "phone": "(02) 9560 9658",
+        "website": "petershaminn.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1612621,
+          -33.8880634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278539373",
+      "properties": {
+        "@id": "node/3278539373",
+        "addr:city": "Leichhardt",
+        "addr:housenumber": "283/281-285",
+        "addr:postcode": "2040",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Kings Corner II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1615394,
+          -33.887846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3278544685",
+      "properties": {
+        "@id": "node/3278544685",
+        "addr:city": "Petersham",
+        "addr:housenumber": "418",
+        "addr:postcode": "2049",
+        "addr:street": "Parramatta Road",
+        "amenity": "restaurant",
+        "name": "Water Lotus Chinese Restaurant",
+        "phone": "(02) 9568 4318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1604708,
+          -33.8879457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338903064",
+      "properties": {
+        "@id": "node/3338903064",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "123",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "name": "Piato Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2044816,
+          -33.8446392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338904294",
+      "properties": {
+        "@id": "node/3338904294",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "2/134",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "name": "Delicado Foods Pty Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2039522,
+          -33.844652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338904471",
+      "properties": {
+        "@id": "node/3338904471",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "139",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "name": "Moorish Blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2045674,
+          -33.8440994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338904831",
+      "properties": {
+        "@id": "node/3338904831",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "117",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Blues Point Gourmet Pizzas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2043376,
+          -33.8447579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338907961",
+      "properties": {
+        "@id": "node/3338907961",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "135",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "name": "Olivio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2046371,
+          -33.8443557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338909489",
+      "properties": {
+        "@id": "node/3338909489",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "147",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Blu Ginger Indian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2045688,
+          -33.8438652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338910031",
+      "properties": {
+        "@id": "node/3338910031",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "133",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "name": "Il Locale Blu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2044768,
+          -33.8442559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338913618",
+      "properties": {
+        "@id": "node/3338913618",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "178",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "name": "Kinn Dining and Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2045584,
+          -33.8432859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338914205",
+      "properties": {
+        "@id": "node/3338914205",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "182",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "cuisine": "Modern_Australian",
+        "name": "Your Place Casual Dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2046445,
+          -33.8429975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338917360",
+      "properties": {
+        "@id": "node/3338917360",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "165",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "name": "Indulgent Sage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2053133,
+          -33.8429373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338918285",
+      "properties": {
+        "@id": "node/3338918285",
+        "addr:city": "McMahons Point",
+        "addr:housenumber": "173",
+        "addr:postcode": "2060",
+        "addr:street": "Blues Point Road",
+        "amenity": "restaurant",
+        "name": "Blues Gourmet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2054362,
+          -33.842527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338924130",
+      "properties": {
+        "@id": "node/3338924130",
+        "addr:city": "North Sydney",
+        "addr:housenumber": "73",
+        "addr:postcode": "2060",
+        "addr:street": "Miller Street",
+        "amenity": "restaurant",
+        "name": "Yakiniku Rengaya Japanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2067334,
+          -33.8406513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338958611",
+      "properties": {
+        "@id": "node/3338958611",
+        "amenity": "restaurant",
+        "name": "Thai Prasert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2073027,
+          -33.8389743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338958638",
+      "properties": {
+        "@id": "node/3338958638",
+        "amenity": "restaurant",
+        "name": "Dedes Watergrill restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2100961,
+          -33.844011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338959211",
+      "properties": {
+        "@id": "node/3338959211",
+        "addr:city": "North Sydney",
+        "addr:housenumber": "75",
+        "addr:postcode": "2060",
+        "addr:street": "Miller Street",
+        "amenity": "restaurant",
+        "name": "Coppin's Gourmet Foods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2068429,
+          -33.8401323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338961194",
+      "properties": {
+        "@id": "node/3338961194",
+        "addr:city": "North Sydney",
+        "addr:housenumber": "5",
+        "addr:postcode": "2060",
+        "addr:street": "Walker Street",
+        "amenity": "restaurant",
+        "name": "Harbourside Indian Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.207869,
+          -33.8432246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338962031",
+      "properties": {
+        "@id": "node/3338962031",
+        "addr:city": "North Sydney",
+        "addr:housenumber": "61",
+        "addr:street": "Lavender Street",
+        "amenity": "restaurant",
+        "name": "St Gourmet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2101015,
+          -33.8437787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338962032",
+      "properties": {
+        "@id": "node/3338962032",
+        "amenity": "restaurant",
+        "name": "Gazal's Authentic Lebanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2105264,
+          -33.8439797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338963013",
+      "properties": {
+        "@id": "node/3338963013",
+        "amenity": "restaurant",
+        "name": "Curve Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2110644,
+          -33.8455211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3339203811",
+      "properties": {
+        "@id": "node/3339203811",
+        "amenity": "restaurant",
+        "name": "Capitano's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2080269,
+          -33.841122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3339203812",
+      "properties": {
+        "@id": "node/3339203812",
+        "amenity": "restaurant",
+        "name": "The Living Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2078499,
+          -33.8408947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3339204709",
+      "properties": {
+        "@id": "node/3339204709",
+        "amenity": "restaurant",
+        "name": "Fluid Lounge & Dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2096631,
+          -33.8393843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3339204784",
+      "properties": {
+        "@id": "node/3339204784",
+        "amenity": "restaurant",
+        "name": "Taruhachi Japanese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2075817,
+          -33.8390011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3339205900",
+      "properties": {
+        "@id": "node/3339205900",
+        "amenity": "restaurant",
+        "name": "Had to Happen Mexican Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2091159,
+          -33.8389743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3367000226",
+      "properties": {
+        "@id": "node/3367000226",
+        "amenity": "restaurant",
+        "name": "The Meat and Wine Co",
+        "source": "survey",
+        "source:location": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2012172,
+          -33.8736161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3466559465",
+      "properties": {
+        "@id": "node/3466559465",
+        "addr:city": "Newtown",
+        "addr:housenumber": "2",
+        "addr:postcode": "2042",
+        "addr:street": "O'Connell Street",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Steki Taverna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.182439,
+          -33.8939801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3476198933",
+      "properties": {
+        "@id": "node/3476198933",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Medusa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2046942,
+          -33.8708151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3476198934",
+      "properties": {
+        "@id": "node/3476198934",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Opera Kitchen",
+        "source": "estimation; survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.214025,
+          -33.8580042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3513602270",
+      "properties": {
+        "@id": "node/3513602270",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1991672,
+          -33.8959997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570692695",
+      "properties": {
+        "@id": "node/3570692695",
+        "addr:city": "Sydney",
+        "addr:housenumber": "580",
+        "addr:postcode": "2000",
+        "addr:street": "George Street",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Pavilion on George Food Court",
+        "opening_hours": "7am - 6pm",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2070865,
+          -33.874664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3570692696",
+      "properties": {
+        "@id": "node/3570692696",
+        "addr:city": "Sydney",
+        "addr:housenumber": "238",
+        "addr:postcode": "2000",
+        "addr:street": "Castlereagh Street",
+        "amenity": "restaurant",
+        "cuisine": "Modern_Greek",
+        "name": "Alpa",
+        "opening_hours": "Breakfast Service - Monday to Friday 7:30am-10:30am (no reservations) Lunch Service - Monday to Sunday 12pm-3pm Dinner Service - Monday to Saturday 6pm-10pm, Sunday 5pm-9pm",
+        "smoking": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.209082,
+          -33.8752608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3585208804",
+      "properties": {
+        "@id": "node/3585208804",
+        "amenity": "restaurant",
+        "cuisine": "burger;regional",
+        "name": "By the Bridge",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2124887,
+          -33.8461952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3617634594",
+      "properties": {
+        "@id": "node/3617634594",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Castelmole Pizzeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1560528,
+          -33.8772455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3632413910",
+      "properties": {
+        "@id": "node/3632413910",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Crêperie Suzette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2080353,
+          -33.8596595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3702209823",
+      "properties": {
+        "@id": "node/3702209823",
+        "addr:housename": "Grill's",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Madang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.207043,
+          -33.8771827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3714181601",
+      "properties": {
+        "@id": "node/3714181601",
+        "amenity": "restaurant",
+        "name": "Flying Fox Films Commissary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2269868,
+          -33.8923081
+        ]
+      }
+    }
+  ]
+}

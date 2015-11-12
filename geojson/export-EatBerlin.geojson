@@ -1,0 +1,2498 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-11-12T14:07:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/66917225",
+      "properties": {
+        "@id": "node/66917225",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "78",
+        "addr:postcode": "10117",
+        "addr:street": "Unter den Linden",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Restaurant Margaux",
+        "phone": "030 22652611",
+        "website": "http://www.margaux-berlin.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3804053,
+          52.5167793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/86001794",
+      "properties": {
+        "@id": "node/86001794",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "167/168",
+        "addr:postcode": "10117",
+        "addr:street": "Friedrichstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "bocca di bacco",
+        "website": "http://www.boccadibacco.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3889227,
+          52.5152342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/86001798",
+      "properties": {
+        "@id": "node/86001798",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "47",
+        "addr:postcode": "10117",
+        "addr:street": "Französische Straße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Restaurant Borchardt",
+        "phone": "+49 30 81886262",
+        "website": "http://www.borchardt-restaurant.de",
+        "wheelchair": "limited",
+        "wheelchair:description": "Dank Rolli wurden wir hinauskomplementiert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3904392,
+          52.515023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/86001800",
+      "properties": {
+        "@id": "node/86001800",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "49",
+        "addr:postcode": "10117",
+        "addr:street": "Charlottenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Fischer's Fritz",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3907912,
+          52.5150438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/86001813",
+      "properties": {
+        "@id": "node/86001813",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "10117",
+        "addr:street": "Französische Straße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Aigner",
+        "opening_hours": "Mo-Su 12:00-02:00",
+        "phone": "+4930203751850",
+        "website": "www.aigner-gendarmenmarkt.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3908798,
+          52.5146906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/86001816",
+      "properties": {
+        "@id": "node/86001816",
+        "amenity": "restaurant",
+        "name": "Möhring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3909914,
+          52.5141056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/86001825",
+      "properties": {
+        "@id": "node/86001825",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "56",
+        "addr:postcode": "10117",
+        "addr:street": "Charlottenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Lutter & Wegner",
+        "phone": "+49 30 20 29 54 0",
+        "website": "http://www.l-w-berlin.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3911782,
+          52.5132123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/86001826",
+      "properties": {
+        "@id": "node/86001826",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Maredo",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3912567,
+          52.5126889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/87040391",
+      "properties": {
+        "@id": "node/87040391",
+        "amenity": "restaurant",
+        "cuisine": "bavarian",
+        "name": "Maximilian's",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3891811,
+          52.5113441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/87040394",
+      "properties": {
+        "@id": "node/87040394",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "66",
+        "addr:postcode": "10117",
+        "addr:street": "Kronenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Izumi Sushi Bar",
+        "opening_hours": "Mo-Fr 11:00-23:00; Sa 12:00-23:00; Su,PH 13:00-23:00",
+        "phone": "+49 30 20649938",
+        "website": "http://www.sushi-izumi.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3887116,
+          52.511292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/127675401",
+      "properties": {
+        "@id": "node/127675401",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "10785",
+        "addr:street": "Marlene-Dietrich-Platz",
+        "addr:suburb": "Tiergarten",
+        "amenity": "restaurant",
+        "name": "mesa",
+        "phone": "+493025531572",
+        "terrace": "yes",
+        "website": "http://www.mesa-restaurant.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3725693,
+          52.5078624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/260769007",
+      "properties": {
+        "@id": "node/260769007",
+        "amenity": "restaurant",
+        "name": "Kaisersaal",
+        "website": "http://www.kaisersaal-berlin.de/content.htm",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3743411,
+          52.5098082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/260769037",
+      "properties": {
+        "@id": "node/260769037",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "3-5",
+        "addr:postcode": "10785",
+        "addr:street": "Bellevuestraße",
+        "addr:suburb": "Tiergarten",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "fax": "030/25751299",
+        "name": "Lindenbräu",
+        "opening_hours": "Su-Th 11:30- 01:30; Fr-Sa 11:30-02:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 30 25751280",
+        "website": "http://www.linden-hopfinger-braeu.de/lindenbraeu/lindenbraeu-im-sonycenter_startseite_de.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3726675,
+          52.5102921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267851662",
+      "properties": {
+        "@id": "node/267851662",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "10117",
+        "addr:street": "Georgenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "Vietnam-Restaurant",
+        "operator": "Chinco-Asean GmbH",
+        "payment:credit_cards": "yes",
+        "phone": "+4930520028848 ‎",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387151,
+          52.5196083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269676264",
+      "properties": {
+        "@id": "node/269676264",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "10557",
+        "addr:street": "Elisabeth-Abegg-Straße",
+        "addr:suburb": "Moabit",
+        "amenity": "restaurant",
+        "beer_garden": "yes",
+        "contact:email": "mail@zollpackhof.de",
+        "cuisine": "german",
+        "name": "Zollpackhof",
+        "opening_hours": "Mo-Su 11:00-00:00",
+        "phone": "+49 30 33099720",
+        "website": "http://www.zollpackhof.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3668503,
+          52.5212821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/317393118",
+      "properties": {
+        "@id": "node/317393118",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "10117",
+        "addr:street": "Albrechtstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Machiavelli",
+        "phone": "+493028046401",
+        "website": "http:www.machiavelli-berlin.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385266,
+          52.5213052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/318526010",
+      "properties": {
+        "@id": "node/318526010",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "75",
+        "addr:postcode": "10117",
+        "addr:street": "Wilhelmstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "fax": "+4930 224 899 40",
+        "name": "Viale dei Tigli",
+        "opening_hours": "Mo-Su 12:00-24:00",
+        "operator": "Idriz Feriki",
+        "phone": "+4930 229 74 05",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3811135,
+          52.5148686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332554285",
+      "properties": {
+        "@id": "node/332554285",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "10117",
+        "addr:street": "Schiffbauerdamm",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "contact:email": "info@staev.de",
+        "contact:fax": "+49 30 28598735",
+        "contact:phone": "+49 30 2823965",
+        "contact:website": "http://www.staev.de",
+        "cuisine": "german",
+        "email": "info@staev.de",
+        "fax": "+49 30 28598735",
+        "name": "Ständige Vertretung",
+        "opening_hours": "10:30-1:00",
+        "operator": "Ständige Vertretung Gastronomie GmbH",
+        "phone": "+49 30 2823965",
+        "website": "http://www.staev.de",
+        "wheelchair": "limited",
+        "wikidata": "Q2360197",
+        "wikipedia": "de:Ständige Vertretung (Gastronomiebetrieb)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3853311,
+          52.5212101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332554286",
+      "properties": {
+        "@id": "node/332554286",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14b",
+        "addr:postcode": "10117",
+        "addr:street": "Albrechtstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Kartoffelkeller",
+        "phone": "+49302828548",
+        "website": "http://www.kartoffelkeller.com/cms/kk/front_content.php?idcat=56&lang=10",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3850126,
+          52.5216755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332554287",
+      "properties": {
+        "@id": "node/332554287",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "10117",
+        "addr:street": "Albrechtstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "argentinian",
+        "name": "La Parrilla",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3848252,
+          52.5214328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332554290",
+      "properties": {
+        "@id": "node/332554290",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "41",
+        "addr:postcode": "10117",
+        "addr:street": "Luisenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Volver",
+        "opening_hours": "Mo-Fr 18:00-23:00; Sa 18:00-24:00",
+        "phone": "+493027572164",
+        "website": "http://www.volver-tapas.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379881,
+          52.5223526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332625321",
+      "properties": {
+        "@id": "node/332625321",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "10117",
+        "addr:street": "Albrechtstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Vaporetto",
+        "phone": "+493027594623",
+        "website": "http:www.vaporetto-berlin.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3850412,
+          52.5210049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332625330",
+      "properties": {
+        "@id": "node/332625330",
+        "amenity": "restaurant",
+        "capacity": "130",
+        "cuisine": "indian",
+        "name": "Anand",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3849344,
+          52.5212652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332733314",
+      "properties": {
+        "@id": "node/332733314",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Vapiano",
+        "wheelchair": "limited",
+        "wheelchair:description": "Zugang zwar rollstuhlgerecht, aber nur Tische in Stehhöhe und oberer Gastraum und Toiletten nur über die Treppe zugängig."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376349,
+          52.5101889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332733319",
+      "properties": {
+        "@id": "node/332733319",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Cinque",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3824135,
+          52.5228146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333136484",
+      "properties": {
+        "@id": "node/333136484",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "10117",
+        "addr:street": "Reinhardtstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Dehlers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3853444,
+          52.5236266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333136487",
+      "properties": {
+        "@id": "node/333136487",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "10117",
+        "addr:state": "Berlin",
+        "addr:street": "Reinhardtstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Max R.",
+        "opening_hours": "Mo-Fr 11:30-15:00, 17:30-20:00; Sa 12:00-20:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3859818,
+          52.523477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333160358",
+      "properties": {
+        "@id": "node/333160358",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "101",
+        "addr:postcode": "10117",
+        "addr:street": "Friedrichstraße",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Hans im Glück",
+        "opening_hours": "Mo-Su 11:00+",
+        "phone": "+49 30 20679063",
+        "website": "http://berlin.hansimglueck-burgergrill.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3884622,
+          52.5208138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333160361",
+      "properties": {
+        "@id": "node/333160361",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Café Madrid",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3883972,
+          52.5211179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/336384888",
+      "properties": {
+        "@id": "node/336384888",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "6-7",
+        "addr:postcode": "10117",
+        "addr:street": "Schiffbauerdamm",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Brechts",
+        "website": "http://www.brechts.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385871,
+          52.521472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/336384894",
+      "properties": {
+        "@id": "node/336384894",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "10117",
+        "addr:street": "Schiffbauerdamm",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Ganymed",
+        "phone": "+493028599046",
+        "website": "www.ganymed-brasserie.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3863157,
+          52.521721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/337503862",
+      "properties": {
+        "@id": "node/337503862",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Edo",
+        "opening_hours": "Mo-Sa 12:00-24:00; Su 15:00-24:00",
+        "phone": "+ 49 (0)30 20635060",
+        "website": "http://edo-berlin.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3899146,
+          52.5161429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/380498268",
+      "properties": {
+        "@id": "node/380498268",
+        "addr:city": "Berlin",
+        "addr:housenumber": "55",
+        "addr:postcode": "10117",
+        "addr:street": "Mittelstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "delivery": "no",
+        "name": "Treffpunkt Berlin",
+        "operator": "Klingelschildkamera Mittelstraße 52",
+        "surveillance": "outdoor",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38812,
+          52.5179169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/453379199",
+      "properties": {
+        "@id": "node/453379199",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "10117",
+        "addr:street": "Leipziger Platz",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "China Restaurant Sonne",
+        "opening_hours": "Mo-Sa 11:30-15:00,17:30-23:00; Su 11:30-23:00",
+        "website": "http://www.china-restaurant-sonne-berlin.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378776,
+          52.5089152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/530810715",
+      "properties": {
+        "@id": "node/530810715",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:postcode": "10117",
+        "addr:street": "Georgenstraße",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Tex-Mex Cantina",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3900664,
+          52.5199774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/531286917",
+      "properties": {
+        "@id": "node/531286917",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "10785",
+        "addr:street": "Potsdamer Platz",
+        "addr:suburb": "Tiergarten",
+        "amenity": "restaurant",
+        "brewery": "Wittinger",
+        "name": "Essenza",
+        "phone": "030 25796856",
+        "terrace": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3754048,
+          52.5090933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/531290385",
+      "properties": {
+        "@id": "node/531290385",
+        "amenity": "restaurant",
+        "brewery": "Erdinger;Berliner Pilsener",
+        "cuisine": "american",
+        "name": "Andy's Diner & Bar",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3744389,
+          52.5090133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/531309278",
+      "properties": {
+        "@id": "node/531309278",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "77",
+        "addr:postcode": "10117",
+        "addr:street": "Wilhelmstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "brewery": "Bitburger;Köstritzer;Paulaner;Wernesgrüner",
+        "cuisine": "german;regional",
+        "email": "altberliner-wirtshaus@web.de",
+        "name": "Alt-Berliner Wirtshaus",
+        "opening_hours": "Mo-Su 11:00-23:00; Dec 24 off",
+        "phone": "+ 4930 22 488 205",
+        "website": "http://www.altberliner-wirtshaus.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3814055,
+          52.514324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/531315561",
+      "properties": {
+        "@id": "node/531315561",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "24",
+        "addr:postcode": "10117",
+        "addr:street": "Ebertstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "brewery": "Hofbräuhaus Traunstein",
+        "name": "Hopfingerbräu im Palais",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "phone": "+49 30 20458637",
+        "website": "http://www.linden-hopfinger-braeu.de/palais/hopfingerbraeu-im-palais_startseite_de.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3776044,
+          52.5171689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/531319944",
+      "properties": {
+        "@id": "node/531319944",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "10117",
+        "addr:street": "Ebertstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Amrit",
+        "phone": "+49(0)30 22488288",
+        "temporarily_closed_amenity": "restaurant",
+        "website": "www.amrit.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377088,
+          52.510618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602315659",
+      "properties": {
+        "@id": "node/602315659",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "103",
+        "addr:postcode": "10117",
+        "addr:street": "Friedrichstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Culinasia",
+        "opening_hours": "closed",
+        "phone": "+493022667996",
+        "website": "http://www.culin.asia/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3883671,
+          52.520968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/622085173",
+      "properties": {
+        "@id": "node/622085173",
+        "amenity": "restaurant",
+        "contact:website": "http://www.restaurant-nolle.de/",
+        "cuisine": "regional",
+        "name": "Nolle",
+        "opening_hours": "Mo-Th 11:30-00:00; Fr,Sa 11:30-01:00; Su 11:30+",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389075,
+          52.5199212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/662579107",
+      "properties": {
+        "@id": "node/662579107",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "10785",
+        "addr:street": "Potsdamer Straße",
+        "addr:suburb": "Tiergarten",
+        "amenity": "restaurant",
+        "contact:phone": "+49 30 23097950",
+        "cuisine": "international",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "internet_access:operator": "Deutsche Telekom",
+        "name": "Alex",
+        "ref": "1250",
+        "website": "www.alexgastro.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3725404,
+          52.5100277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/662579108",
+      "properties": {
+        "@id": "node/662579108",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "10785",
+        "addr:street": "Bellevuestraße",
+        "addr:suburb": "Tiergarten",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Josty",
+        "outdoor_seating": "yes",
+        "phone": "+49 30 25751105",
+        "website": "http://www.josty-berlin.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3736673,
+          52.5101778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/662579109",
+      "properties": {
+        "@id": "node/662579109",
+        "addr:city": "Berlin",
+        "addr:housenumber": "5",
+        "addr:postcode": "10785",
+        "addr:street": "Bellevuestrasse",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Corroboree",
+        "website": "http://corroboree.info/en/berlin-sony-center-potsdamer-place/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3731629,
+          52.5103049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/709023036",
+      "properties": {
+        "@id": "node/709023036",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "10117",
+        "addr:street": "Luisenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Thai Tasty",
+        "opening_hours": "Mo-Fr 11:00-15:00",
+        "website": "www.thai-tasty.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3793298,
+          52.5233511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/766467492",
+      "properties": {
+        "@id": "node/766467492",
+        "amenity": "restaurant",
+        "name": "Lutter & Wegner",
+        "shop": "deli",
+        "terrace": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3747639,
+          52.5084446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/863067900",
+      "properties": {
+        "@id": "node/863067900",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "10785",
+        "addr:street": "Marlene-Dietrich-Platz",
+        "addr:suburb": "Tiergarten",
+        "amenity": "restaurant",
+        "name": "Vox im Grand Hyatt",
+        "terrace": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "alles gut zu erreichen, Rollis willkommen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3730111,
+          52.5080259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/901804851",
+      "properties": {
+        "@id": "node/901804851",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "55",
+        "addr:postcode": "10117",
+        "addr:street": "Charlottenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "brewery": "Augustiner Bräu München",
+        "contact:email": "info@augustiner-braeu-berlin.de",
+        "contact:phone": "+49 (0)30 20 45 40 20",
+        "contact:website": "http://www.augustiner-braeu-berlin.de",
+        "cuisine": "bavarian",
+        "name": "Augustiner am Gendarmenmarkt",
+        "opening_hours": "Mo-Su 10:00-01:00",
+        "phone": "030 20 45 40 20",
+        "website": "www.augustiner-braeu-berlin.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391068,
+          52.5138083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/915044099",
+      "properties": {
+        "@id": "node/915044099",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "35-36",
+        "addr:postcode": "10117",
+        "addr:street": "Charlottenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Die Maultasche",
+        "phone": "030 31011686",
+        "website": "http://www.die-maultasche.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390908,
+          52.5162953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/915044102",
+      "properties": {
+        "@id": "node/915044102",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "42",
+        "addr:postcode": "10117",
+        "addr:street": "Behrenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Gendarmerie",
+        "phone": "+493076775270",
+        "website": "http://www.gendarmerie-berlin.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3911637,
+          52.5158875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/918183881",
+      "properties": {
+        "@id": "node/918183881",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:postcode": "10117",
+        "addr:street": "Jägerstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Dolcini",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3867873,
+          52.5137798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/918183909",
+      "properties": {
+        "@id": "node/918183909",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Der Thüringer",
+        "website": "http://www.restaurantderthueringer.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3856248,
+          52.5121298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/972814253",
+      "properties": {
+        "@id": "node/972814253",
+        "addr:city": "Berlin",
+        "addr:housenumber": "1",
+        "addr:postcode": "10785",
+        "addr:street": "Alte Potsdamer Straße",
+        "amenity": "restaurant",
+        "name": "Mommseneck",
+        "website": "http://www.mommseneck.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3752983,
+          52.5083138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1122136715",
+      "properties": {
+        "@id": "node/1122136715",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "67",
+        "addr:postcode": "10117",
+        "addr:street": "Jägerstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Baguette-Company",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "phone": "+49 30 30831303",
+        "website": "http://www.baguette-company.de/bc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3873292,
+          52.5138709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1202368746",
+      "properties": {
+        "@id": "node/1202368746",
+        "amenity": "restaurant",
+        "name": "Maredo",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3746299,
+          52.5086975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1203807178",
+      "properties": {
+        "@id": "node/1203807178",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "63",
+        "addr:postcode": "10117",
+        "addr:state": "Berlin",
+        "addr:street": "Friedrichstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "cha chã",
+        "phone": "030206259610",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389914,
+          52.51164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1223849495",
+      "properties": {
+        "@id": "node/1223849495",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Soya Cosplay",
+        "phone": "+43 457 8585858585",
+        "toilets:wheelchair": "unknown",
+        "website": "http://soyacosplay.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3904819,
+          52.5140735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1239738496",
+      "properties": {
+        "@id": "node/1239738496",
+        "amenity": "restaurant",
+        "name": "Catwalk",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3764338,
+          52.5108864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1239746094",
+      "properties": {
+        "@id": "node/1239746094",
+        "amenity": "restaurant",
+        "name": "midtown grill",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3764553,
+          52.511017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1251095626",
+      "properties": {
+        "@id": "node/1251095626",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "10117",
+        "addr:street": "Voßstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "peking ente",
+        "phone": "+493022652542",
+        "website": "http://www.peking-ente-berlin.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3828541,
+          52.5114767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1310749383",
+      "properties": {
+        "@id": "node/1310749383",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "65",
+        "addr:postcode": "10117",
+        "addr:street": "Dorotheenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Gaffel Haus Berlin",
+        "opening_hours": "Mo-Sa 12:00-24:00",
+        "source": "website",
+        "website": "http://www.gaffel-haus-berlin.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3864563,
+          52.5184631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1316047612",
+      "properties": {
+        "@id": "node/1316047612",
+        "amenity": "restaurant",
+        "name": "Lutter & Wegner",
+        "shop": "deli",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3749094,
+          52.5098812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1336875028",
+      "properties": {
+        "@id": "node/1336875028",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "10785",
+        "addr:street": "Voxstraße",
+        "addr:suburb": "Tiergarten",
+        "amenity": "restaurant",
+        "name": "Oscar & Co",
+        "phone": "+4930 25292792",
+        "roof:shape": "flat",
+        "website": "http://www.oscar-co-berlin.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3735826,
+          52.5082633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1349696690",
+      "properties": {
+        "@id": "node/1349696690",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Antica Lasagneria",
+        "website": "http://www.ilpunto.net/main.php?web_id=1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385604,
+          52.518677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1349696691",
+      "properties": {
+        "@id": "node/1349696691",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "100",
+        "addr:postcode": "10117",
+        "addr:street": "Friedrichstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "brewery": "Bitburger;Paulaner;Köstritzer",
+        "cuisine": "steak_house",
+        "name": "Block House Friedrichstraße",
+        "opening_hours": "Mo-Sa 11:30-24:00; Su 11:30-23:00",
+        "website": "http://www.block-house.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3884165,
+          52.5203939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1349696693",
+      "properties": {
+        "@id": "node/1349696693",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "10117",
+        "addr:street": "Neustädtische Kirchstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Il Punto",
+        "phone": "+493020605540",
+        "website": "http://www.ilpunto.net/main.php?web_id=1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3855752,
+          52.5188432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1349696700",
+      "properties": {
+        "@id": "node/1349696700",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "10117",
+        "addr:street": "Neustädtische Kirchstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "flamingo",
+        "opening_hours": "Mo-Fr 7:30-18:00",
+        "website": "http://www.flamingo-freshfood.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3855292,
+          52.5196241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1397070400",
+      "properties": {
+        "@id": "node/1397070400",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "10117",
+        "addr:street": "Leipziger Platz",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Peppone",
+        "opening_hours": "Mo-Fr 12:00-14:30,18:00-23:30; Sa 18:00-23:30",
+        "phone": "+493022488156",
+        "website": "http://www.ristorante-peppone.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37852,
+          52.5103714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1447292287",
+      "properties": {
+        "@id": "node/1447292287",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Boccondivino",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3845929,
+          52.5222512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1449538232",
+      "properties": {
+        "@id": "node/1449538232",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "13 A",
+        "addr:postcode": "10117",
+        "addr:street": "Schumannstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Restaurant im Deutschen Theater",
+        "phone": "+4930 25762976",
+        "website": "http://www.restaurant-dt.de/",
+        "wheelchair": "no",
+        "wheelchair:description": "Die Kantine ist im Keller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3817416,
+          52.5242466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1693343179",
+      "properties": {
+        "@id": "node/1693343179",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "10117",
+        "addr:street": "Gendarmenmarkt",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "email": "mail@restaurant-refugium.de",
+        "fax": "+493022489861",
+        "name": "Refugium",
+        "opening_hours": "11:00+",
+        "operator": "international",
+        "phone": "+49302291661",
+        "smoking": "no",
+        "website": "www.restaurant-refugium.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3919298,
+          52.5141809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1811815459",
+      "properties": {
+        "@id": "node/1811815459",
+        "amenity": "restaurant",
+        "indoor": "yes",
+        "name": "Cafeteria",
+        "operator": "Studentenwerk",
+        "outdoor_seating": "yes",
+        "source": "memory",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3906033,
+          52.5204303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1877330762",
+      "properties": {
+        "@id": "node/1877330762",
+        "amenity": "restaurant",
+        "name": "Mom's Favourite",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3741422,
+          52.5085285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1926895420",
+      "properties": {
+        "@id": "node/1926895420",
+        "addr:city": "Berlin",
+        "addr:housenumber": "24",
+        "addr:postcode": "10117",
+        "addr:street": "Mittelstraße",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Ishin",
+        "opening_hours": "Mo-Sa 11:00-22:00",
+        "website": "http://www.ishin.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3865429,
+          52.5180238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1960291426",
+      "properties": {
+        "@id": "node/1960291426",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "10785",
+        "addr:street": "Marlene-Dietrich-Platz",
+        "addr:suburb": "Tiergarten",
+        "amenity": "restaurant",
+        "name": "Tizian im Grand Hyatt",
+        "terrace": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3723121,
+          52.5081095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2054488955",
+      "properties": {
+        "@id": "node/2054488955",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "10117",
+        "addr:street": "Charitéstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "diet:vegetarian": "yes",
+        "name": "Lina",
+        "opening_hours": "Mo-Fr 9:00-16:00",
+        "organic": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3786965,
+          52.5229528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2076179041",
+      "properties": {
+        "@id": "node/2076179041",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "10117",
+        "addr:street": "Unter den Linden",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "contact:email": "info@berlinmoscow.net",
+        "contact:website": "http://www.berlinmoscow.net/",
+        "name": "Berlin Moscow",
+        "opening_hours": "Mo-Su 11:00-00:00",
+        "shop": "deli",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3847237,
+          52.5170512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2088488474",
+      "properties": {
+        "@id": "node/2088488474",
+        "amenity": "restaurant",
+        "name": "Maredo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3864564,
+          52.5171879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2121100045",
+      "properties": {
+        "@id": "node/2121100045",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Sagrantino",
+        "website": "www.sagrantino-winebar.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3900468,
+          52.515815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2121102691",
+      "properties": {
+        "@id": "node/2121102691",
+        "amenity": "restaurant",
+        "name": "Sushi Miyabi",
+        "wheelchair": "limited",
+        "wheelchair:description": "Rampe vorhanden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3907331,
+          52.5200637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2231299028",
+      "properties": {
+        "@id": "node/2231299028",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "coa",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3760963,
+          52.5101732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2240253754",
+      "properties": {
+        "@id": "node/2240253754",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "77",
+        "addr:postcode": "10117",
+        "addr:street": "Wilhelmstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian",
+        "diet:vegetarian": "only",
+        "name": "Samadhi",
+        "opening_hours": "Mo-Su 12:00-23:00; Dec 24 off; Jan 01 14:00-23:00",
+        "source": "local knowledge",
+        "website": "www.samadhi-vegetarian.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3813349,
+          52.5144958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2274277516",
+      "properties": {
+        "@id": "node/2274277516",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "79",
+        "addr:postcode": "10117",
+        "addr:street": "Wilhelmstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Bombay Spice",
+        "opening_hours": "Mo-Su 12:00-24:00",
+        "phone": "+4930 20 83 33 41",
+        "website": "http://www.bombayspice.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3815473,
+          52.5140427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2331831580",
+      "properties": {
+        "@id": "node/2331831580",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Sra Bua",
+        "website": "http://www.srabua-adlon.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3806335,
+          52.5160786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2347992508",
+      "properties": {
+        "@id": "node/2347992508",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "128",
+        "addr:postcode": "10117",
+        "addr:street": "Stresemannstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "name": "Kantine Umweltministerium",
+        "opening_hours": "Mo-Fr 08:00-10:00,12:30-14:30",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3782657,
+          52.5079639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2794459179",
+      "properties": {
+        "@id": "node/2794459179",
+        "amenity": "restaurant",
+        "name": "Facil",
+        "website": "http://www.facil.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3737391,
+          52.5087806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3102399604",
+      "properties": {
+        "@id": "node/3102399604",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Hasir Beef Club",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3787772,
+          52.5103875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3117333942",
+      "properties": {
+        "@id": "node/3117333942",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "67-70",
+        "addr:postcode": "10117",
+        "addr:street": "Friedrichstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "capacity": "80",
+        "cuisine": "mediterranean",
+        "name": "„Oh Angie!“",
+        "opening_hours": "9:00-22:00",
+        "phone": "+49 30 20 64 41 64",
+        "smoking": "no",
+        "website": "http://www.oh-angie.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3902514,
+          52.5125717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3117340426",
+      "properties": {
+        "@id": "node/3117340426",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "10117",
+        "addr:street": "Taubenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "name": "Mensa der Hochschule für Musik",
+        "opening_hours": "8:30-15:00",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3907395,
+          52.5132247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3180581857",
+      "properties": {
+        "@id": "node/3180581857",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "10117",
+        "addr:street": "Albrechtstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "ALvis",
+        "phone": "+4930886560",
+        "website": "http://www.alvis-restaurant.de/restaurant/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3844511,
+          52.5219949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3180581858",
+      "properties": {
+        "@id": "node/3180581858",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "10117",
+        "addr:street": "Marienstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Muckrakers",
+        "opening_hours": "Mo-Fr 10:00-24:00;Sa 12:00-24:00",
+        "phone": "+493085612456",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3842198,
+          52.5223558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3204185861",
+      "properties": {
+        "@id": "node/3204185861",
+        "addr:city": "Berlin",
+        "addr:housenumber": "5",
+        "addr:postcode": "10785",
+        "addr:street": "Alte Potsdamer Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria La Strada",
+        "opening_hours": "Mo-Su 10:00-01:00",
+        "website": "http://www.trattorialastrada.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.375014,
+          52.508266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3309840770",
+      "properties": {
+        "@id": "node/3309840770",
+        "addr:city": "Berlin",
+        "addr:housenumber": "3",
+        "addr:postcode": "10785",
+        "addr:street": "Potsdamer Platz",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Brasserie Desbrosses",
+        "opening_hours": "Mo-Sa 06:30-23:00;Su 06:30-15:30,18:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.375158,
+          52.510235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3309841363",
+      "properties": {
+        "@id": "node/3309841363",
+        "amenity": "restaurant",
+        "name": "Jedermann's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390123,
+          52.51742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3309922361",
+      "properties": {
+        "@id": "node/3309922361",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "72",
+        "addr:postcode": "10117",
+        "addr:street": "Behrenstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "capacity": "90",
+        "cuisine": "thai;japanese",
+        "email": "srabua.berlin@kempinski.com",
+        "name": "Sra Bua by Tim Raue",
+        "opening_hours": "Tu-Sa 18:00-23:00",
+        "operator": "Adlon Hotel Kempinski Berlin",
+        "phone": "+49 30 2261 1590",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.381068,
+          52.515183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3347781754",
+      "properties": {
+        "@id": "node/3347781754",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "87",
+        "addr:postcode": "10117",
+        "addr:street": "Wilhelmstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "email": "info@sushi-club.org",
+        "fax": "+4930 20 60 54 18",
+        "name": "Sushi Club - Mitte Catering",
+        "opening_hours": "Mo-Fr 17:00-21:00; Sa,Su 12:00-21:00 || Mo-Su 12:00-22:00 \"Lieferservice\"",
+        "phone": "+4930 20 60 55 08",
+        "smoking": "no",
+        "website": "http://www.sushi-club.org/?page=News&place=mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3819842,
+          52.5130991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3419414393",
+      "properties": {
+        "@id": "node/3419414393",
+        "addr:city": "Berlin",
+        "addr:housenumber": "47",
+        "addr:postcode": "10117",
+        "addr:street": "Reinhardtstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 30 24625911",
+        "contact:website": "www.bio-bistro-morgenstern.de",
+        "cuisine": "vegetarian",
+        "name": "Morgenstern",
+        "opening_hours": "Mo-Fr 10:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378467,
+          52.5223006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3421694831",
+      "properties": {
+        "@id": "node/3421694831",
+        "add:suburb": "Mitte",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "10117",
+        "addr:street": "Reinhardtstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "CouCou",
+        "opening_hours": "Mo-Fr 8:30-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3802461,
+          52.5224891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3507467127",
+      "properties": {
+        "@id": "node/3507467127",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3650096,
+          52.5192414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3610556993",
+      "properties": {
+        "@id": "node/3610556993",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "delivery": "no",
+        "name": "Asia Pavillon",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.373995,
+          52.507582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3674888276",
+      "properties": {
+        "@id": "node/3674888276",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "70",
+        "addr:postcode": "10117",
+        "addr:street": "Kronenstraße",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "fax": "+49 30 206047898",
+        "name": "Savory Chay",
+        "phone": "+49 30 20647692",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3879451,
+          52.5112345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3739072177",
+      "properties": {
+        "@id": "node/3739072177",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "39",
+        "addr:postcode": "10117",
+        "addr:street": "Luisenstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Mahlzeit Luise",
+        "opening_hours": "Mo-Fr 10:00-16:00",
+        "phone": "+49163 7388581",
+        "website": "http://mahlzeitluise.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379939,
+          52.5219575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3754652240",
+      "properties": {
+        "@id": "node/3754652240",
+        "amenity": "restaurant",
+        "name": "Block House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3884504,
+          52.5203979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3801422905",
+      "properties": {
+        "@id": "node/3801422905",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Oktogon",
+        "website": "http://www.oktogon-berlin.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3794674,
+          52.5091523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3803694634",
+      "properties": {
+        "@id": "node/3803694634",
+        "addr:city": "Berlin",
+        "addr:housenumber": "44",
+        "addr:postcode": "10117",
+        "addr:street": "Reinhardtstraße",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "Minh San",
+        "opening_hours": "Mo-Fr 11:30-22:00, Sa 17:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3789956,
+          52.5226033
+        ]
+      }
+    }
+  ]
+}
