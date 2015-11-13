@@ -1,0 +1,604 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-11-13T01:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/122813443",
+      "properties": {
+        "@id": "node/122813443",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.239741,
+          53.3838223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/133343439",
+      "properties": {
+        "@id": "node/133343439",
+        "amenity": "school",
+        "name": "Catholic University School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2552217,
+          53.3355735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/335975671",
+      "properties": {
+        "@id": "node/335975671",
+        "amenity": "school",
+        "created_by": "Potlatch 0.10f",
+        "name": "Oblates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3254453,
+          53.3371874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/434424827",
+      "properties": {
+        "@id": "node/434424827",
+        "amenity": "school",
+        "name": "Saint John Bosco National School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3138026,
+          53.3677413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/434424934",
+      "properties": {
+        "@id": "node/434424934",
+        "amenity": "school",
+        "name": "Mary Help of Christians National School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3144463,
+          53.3679334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/440860714",
+      "properties": {
+        "@id": "node/440860714",
+        "addr:city": "Dublin",
+        "addr:postcode": "D07",
+        "addr:street": "Fassaugh Avenue",
+        "amenity": "school",
+        "name": "Gaelscoil Bharra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2889593,
+          53.3647818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/441883276",
+      "properties": {
+        "@id": "node/441883276",
+        "amenity": "school",
+        "name": "Saint Peters National School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2765765,
+          53.3616272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/564886230",
+      "properties": {
+        "@id": "node/564886230",
+        "amenity": "school",
+        "name": "Atlas Language School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2547798,
+          53.3249086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/593614457",
+      "properties": {
+        "@id": "node/593614457",
+        "amenity": "school",
+        "name": "Templeogue College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3119609,
+          53.3043003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/616479730",
+      "properties": {
+        "@id": "node/616479730",
+        "addr:city": "Dublin 2",
+        "addr:street": "St. Stephen's Green",
+        "amenity": "school",
+        "name": "Loreto School",
+        "website": "http://www.loretothegreen.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2562981,
+          53.3369107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/625630093",
+      "properties": {
+        "@id": "node/625630093",
+        "amenity": "school",
+        "name": "St Mary's Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2404122,
+          53.3353113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632653333",
+      "properties": {
+        "@id": "node/632653333",
+        "amenity": "school",
+        "name": "Scoil Náisiúnta Clochar na Toirbhirte Cnoc Seoirse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.271404,
+          53.3483828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/660701237",
+      "properties": {
+        "@id": "node/660701237",
+        "amenity": "school",
+        "name": "Saint Joseph's School for Deaf Boys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.304928,
+          53.3653165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672904451",
+      "properties": {
+        "@id": "node/672904451",
+        "amenity": "school",
+        "name": "St Clare's Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2756164,
+          53.3264322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/738592241",
+      "properties": {
+        "@id": "node/738592241",
+        "amenity": "school",
+        "name": "Mount Carmel Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.268623,
+          53.3521716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/778588092",
+      "properties": {
+        "@id": "node/778588092",
+        "amenity": "school",
+        "name": "Saint Josephs Secondary School for Girls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2829966,
+          53.3519426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/847289592",
+      "properties": {
+        "@id": "node/847289592",
+        "amenity": "school",
+        "name": "International School of Dublin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2431148,
+          53.3327228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/915299482",
+      "properties": {
+        "@id": "node/915299482",
+        "alt_name": "Griffith Baracks Educate Together",
+        "amenity": "school",
+        "name": "Griffith Barracks ET",
+        "operator": "Educate Together"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2797138,
+          53.3311704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/992783718",
+      "properties": {
+        "@id": "node/992783718",
+        "amenity": "school",
+        "name": "St. Brigid's National School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2747645,
+          53.3389868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1237897776",
+      "properties": {
+        "@id": "node/1237897776",
+        "amenity": "school",
+        "name": "Phoenix Park School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3277971,
+          53.3684944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1327270445",
+      "properties": {
+        "@id": "node/1327270445",
+        "addr:city": "Dublin",
+        "addr:housename": "Swan Training Institute",
+        "addr:housenumber": "9-11",
+        "addr:street": "Grafton Street",
+        "amenity": "school",
+        "name": "Swan Training Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2594975,
+          53.3425462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1410487515",
+      "properties": {
+        "@id": "node/1410487515",
+        "addr:street": "Dame Court",
+        "amenity": "school",
+        "name": "CES - Centre of English Studies",
+        "website": "http://www.ces-schools.com/dublin/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2638736,
+          53.3436551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1412865215",
+      "properties": {
+        "@id": "node/1412865215",
+        "amenity": "school",
+        "name": "St Patricks Cathedral Grammar School",
+        "website": "http://www.stpatrickscgs.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.272151,
+          53.339235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1414422615",
+      "properties": {
+        "@id": "node/1414422615",
+        "addr:street": "Blackpitts",
+        "amenity": "school",
+        "name": "Presentation Primary School, Warrenmount",
+        "website": "http://warrenmountprimary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2758971,
+          53.3356525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1426051342",
+      "properties": {
+        "@id": "node/1426051342",
+        "amenity": "school",
+        "name": "High Street Kenpo Karate Academy",
+        "url": "www.aki.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2734052,
+          53.3439384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1488891292",
+      "properties": {
+        "@id": "node/1488891292",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "amenity": "school",
+        "name": "Belvedere College S.J."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2620297,
+          53.3554821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1603816530",
+      "properties": {
+        "@id": "node/1603816530",
+        "amenity": "school",
+        "name": "Walk n' Talk English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2235663,
+          53.3321791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1981717777",
+      "properties": {
+        "@id": "node/1981717777",
+        "amenity": "school",
+        "name": "Dublin School of Guitar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.266722,
+          53.3327077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2137717460",
+      "properties": {
+        "@id": "node/2137717460",
+        "amenity": "school",
+        "name": "Francis Street C.B.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2734054,
+          53.3413795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2188354852",
+      "properties": {
+        "@id": "node/2188354852",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2710002,
+          53.3508045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2556794953",
+      "properties": {
+        "@id": "node/2556794953",
+        "addr:city": "Dublin",
+        "addr:housenumber": "159",
+        "addr:street": "Custom Hall",
+        "amenity": "school",
+        "name": "Sunrise Languages",
+        "note": "Language school",
+        "phone": "+353 87 2560618",
+        "school": "language",
+        "website": "http://www.sunrise-languages.eu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2562556,
+          53.3527573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2616426966",
+      "properties": {
+        "@id": "node/2616426966",
+        "addr:city": "Dublin",
+        "addr:postal_district": "Dublin 2",
+        "addr:street": "Baggot Street Lower",
+        "amenity": "school",
+        "name": "Scoil Chaitríona",
+        "phone": "+353 1 6766132",
+        "school": "primary",
+        "website": "http://www.scoilchaitrionabaggotstreet.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2460569,
+          53.3362448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2744294485",
+      "properties": {
+        "@id": "node/2744294485",
+        "addr:housenumber": "66",
+        "addr:street": "Camden Street Upper",
+        "amenity": "school",
+        "building:levels": "3",
+        "name": "Shelbourne College",
+        "website": "http://www.scdublin.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.265445,
+          53.3347497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2825993601",
+      "properties": {
+        "@id": "node/2825993601",
+        "amenity": "school",
+        "name": "Our Lady of Mercy College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.230496,
+          53.386634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3224845395",
+      "properties": {
+        "@id": "node/3224845395",
+        "amenity": "school",
+        "name": "Gaiety School of Acting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2656659,
+          53.3448989
+        ]
+      }
+    }
+  ]
+}
