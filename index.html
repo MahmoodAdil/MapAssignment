@@ -65,9 +65,9 @@ var Thunderforest_OpenCycleMap = L.tileLayer('http://{s}.tile.thunderforest.com/
 });
 
 // Notice how the MAP is centered at a particular point - notice the ZOOM level
-var map = L.map('map', {center: [53.35178, -6.28151], zoom: 13,layers: [OpenStreetMap_Mapnik,Thunderforest_Transport,Thunderforest_OpenCycleMap ]});
-
-var baseMaps = {"OS Mapnik": OpenStreetMap_Mapnik,"Transport": Thunderforest_Transport,"Cycle Map": Thunderforest_OpenCycleMap };
+var map = L.map('map', {center: [53.35178, -6.28151], zoom: 13,layers: [Thunderforest_Transport,Thunderforest_OpenCycleMap,OpenStreetMap_Mapnik]});
+var baseMaps = {"Transport": Thunderforest_Transport,"Cycle Map": Thunderforest_OpenCycleMap,"OS Mapnik": OpenStreetMap_Mapnik};
+//var baseMaps = {"OS Mapnik": OpenStreetMap_Mapnik,"Transport": Thunderforest_Transport,"Cycle Map": Thunderforest_OpenCycleMap };
   
 
 <!-- This is where we are going to get Javascript to gather the GeoJSON and make it available-->
@@ -77,12 +77,12 @@ var baseMaps = {"OS Mapnik": OpenStreetMap_Mapnik,"Transport": Thunderforest_Tra
 /*
 var myGeoJSONLayers = L.layerGroup(); 
 
-var mySchoolLayers = L.layerGroup();   // NEW ADDITIONAL SECOND GEOJSON LAYER
+var DublinAmenityLayer = L.layerGroup();   // NEW ADDITIONAL SECOND GEOJSON LAYER
 var myCorkLayers = L.layerGroup();   // NEW ADDITIONAL THIRD GEOJSON LAYER
 */
 var myGeoJSONatmLayers = L.layerGroup(); 
 
-var mySchoolLayers = L.layerGroup();   // NEW ADDITIONAL SECOND GEOJSON LAYER
+var DublinAmenityLayer = L.layerGroup();   // NEW ADDITIONAL SECOND GEOJSON LAYER
 var myDublinLayers = L.layerGroup();   // NEW ADDITIONAL THIRD GEOJSON LAYER
   <!-- we juse JQUERY to access our GeoJSON -->
   <!-- Remember our GeoJSON is stored in a subfolder - so we need to make sure we get the file location correct-->
@@ -100,7 +100,7 @@ var myDublinLayers = L.layerGroup();   // NEW ADDITIONAL THIRD GEOJSON LAYER
      }
   );
   
-  $.getJSON("./geojson/school.geojson",  
+  $.getJSON("./geojson/DublinAmenity.geojson",  
      function(data) {
 		 // tell Leaflet to go to the function action_To_Perform_When_Marker_Is_Clicked_On_The_Map
 		 // when someone clicks on one of the objects in the GeoJSON layer
@@ -108,10 +108,10 @@ var myDublinLayers = L.layerGroup();   // NEW ADDITIONAL THIRD GEOJSON LAYER
 			style: specific_style_for_ways});
         geojson.addTo(map);
         <!-- add our new layer to the group of top layers -->
-        mySchoolLayers.addLayer(geojson);  // NEW LAYER GROUP NAME HERE 
+        DublinAmenityLayer.addLayer(geojson);  // NEW LAYER GROUP NAME HERE 
      }
   );
-  $.getJSON("./geojson/dublin.geojson",  
+  $.getJSON("./geojson/DublinPark.geojson",  
      function(data) {
 		 // tell Leaflet to go to the function action_To_Perform_When_Marker_Is_Clicked_On_The_Map
 		 // when someone clicks on one of the objects in the GeoJSON layer
@@ -141,25 +141,26 @@ var myDublinLayers = L.layerGroup();   // NEW ADDITIONAL THIRD GEOJSON LAYER
 // We have added the myGeoJSONLayers variable so that Leaflet knows that you 
 // want to include the GeoJSON as a layer on the map
 // Notice that we also make a place where we can switch on/off the layer
-var overlayMaps = {"ATM": myGeoJSONatmLayers,"Schools": mySchoolLayers,"Dublin Park ": myDublinLayers};		
+var overlayMaps = {"ATM": myGeoJSONatmLayers,"Amenity": DublinAmenityLayer,"Dublin Park ": myDublinLayers};		
 // Notice how we add our second layer to our overlay container!
 
 
 // This is a VERY important function. This is where we say which colors will be 
 // displayed for specific values of the amenity tag 
-//var overlayMaps = {"Estonian amenity": myGeoJSONatmLayers,mySchoolLayers,myCorkLayers};	
+//var overlayMaps = {"Estonian amenity": myGeoJSONatmLayers,DublinAmenityLayer,myCorkLayers};	
 
-L.control.layers(baseMaps, overlayMaps,myGeoJSONatmLayers,mySchoolLayers,myDublinLayers).addTo(map); 
+L.control.layers(baseMaps, overlayMaps,myGeoJSONatmLayers,DublinAmenityLayer,myDublinLayers).addTo(map); 
 
 // This is a VERY important function. This is where we say which colors will be 
 // displayed for specific values of the landuse tag 
 function specific_style_for_ways(feature) {
 			switch (feature.properties.amenity) {
-				case 'school': return {color: "#8A0808"};
-				case 'atm':   return {color: "#FA58AC"};
-				case 'parking':   return {color: "#CE2B37"};
-				case 'police':   return {color: "#D358F7"};
-				default: return {color: "#FFFFFF"}; // this is when we don't know the property value 
+				case 'parking': return {color: "#8A0808"};
+				case 'park': return {color: "#008000"};
+				case 'school':   return {color: "#FA58AC"};
+				case 'place_of_worship':   return {color: "#CE2B37"};
+				case 'fountain':   return {color: "#D358F7"};
+				default: return {color: "#ADD8E6"}; // this is when we don't know the property value 
 				// or it is different to the ones above
 			}
 		}
@@ -178,7 +179,11 @@ function action_To_Perform_When_Marker_Is_Clicked_On_The_Map(feature, layer) {
 		PopupText.push("<h4>Information</h4>");
 			
 		if (feature.properties.amenity) // if this is a property called landuse
-			PopupText.push("<br/>Amenity = " + feature.properties.amenity)			
+			PopupText.push("<br/>Amenity = " + feature.properties.amenity)
+		if (feature.properties.name) // if this is a property called landuse
+			PopupText.push("<br/>Name = " + feature.properties.name)
+		if (feature.properties.operator) // if operator bank operator
+			PopupText.push("<br/>Operator = " + feature.properties.operator)		
 	
 		// Join all the text to make the Popup	
 		layer.bindPopup("<p>" + PopupText.join() + "</p>");						
