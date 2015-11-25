@@ -43,7 +43,7 @@ to make the page display/function as the programmer intended -->
 	<!-- start the row of content -->
 <div class="row">
 	
-	<h1>CS 621 Spatial Databases</h1>	<!-- We can change this piece of text each time -->
+	<h1>CS 621 Spatial Databases</h1>	<!-- web site header -->
 	<h2>web-based mapping application using JQuery, Bootstrap and Leaflet</h2>
 	<br>
 	<div id="map" style="width: 100%; height: 600px"></div>
@@ -51,21 +51,25 @@ to make the page display/function as the programmer intended -->
 </div><!-- close the row of content-->
 
 <script><!-- This is where our mapping code starts -->
-// This is our base layer - you should not need to change this in many examples
+// This is our base layer - 
 var OpenStreetMap_Mapnik = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	maxZoom: 30,
 	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 });
+// This is our 2nd base layer - 
 var Thunderforest_Transport = L.tileLayer('http://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png', {
 	attribution: '&copy; <a href="http://www.opencyclemap.org">OpenCycleMap</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 	maxZoom: 30
 });
+// This is our 3rd base layer - 
 var Thunderforest_OpenCycleMap = L.tileLayer('http://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', {
 	attribution: '&copy; <a href="http://www.opencyclemap.org">OpenCycleMap</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 });
 
 // Notice how the MAP is centered at a particular point - notice the ZOOM level
+//set zoom level and center point where will be application center when open this page
 var map = L.map('map', {center: [53.35178, -6.28151], zoom: 13,layers: [Thunderforest_Transport,Thunderforest_OpenCycleMap,OpenStreetMap_Mapnik]});
+//this is variable anmes and text shown for user to select layer.
 var baseMaps = {"Transport": Thunderforest_Transport,"Cycle Map": Thunderforest_OpenCycleMap,"OS Mapnik": OpenStreetMap_Mapnik};
 //var baseMaps = {"OS Mapnik": OpenStreetMap_Mapnik,"Transport": Thunderforest_Transport,"Cycle Map": Thunderforest_OpenCycleMap };
   
@@ -74,14 +78,8 @@ var baseMaps = {"Transport": Thunderforest_Transport,"Cycle Map": Thunderforest_
 <!-- so that Leaflet can display it -->
 <!-- We need to make a special LAYER for our GeoJson -->
 <!-- We are going to make a group for our 'top layers' -->
-/*
-var myGeoJSONLayers = L.layerGroup(); 
 
-var DublinAmenityLayer = L.layerGroup();   // NEW ADDITIONAL SECOND GEOJSON LAYER
-var myCorkLayers = L.layerGroup();   // NEW ADDITIONAL THIRD GEOJSON LAYER
-*/
-var myGeoJSONatmLayers = L.layerGroup(); 
-
+var myGeoJSONatmLayers = L.layerGroup(); //first GEOJSON LAYER layer for atm
 var DublinAmenityLayer = L.layerGroup();   // NEW ADDITIONAL SECOND GEOJSON LAYER
 var myDublinLayers = L.layerGroup();   // NEW ADDITIONAL THIRD GEOJSON LAYER
   <!-- we juse JQUERY to access our GeoJSON -->
